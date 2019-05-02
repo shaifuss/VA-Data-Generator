@@ -1,0 +1,41 @@
+
+Questions
+	Greetings
+		“How are you all doing today?”
+		“Welcome, what can I get you?”
+		“How’s it going?”
+       “Hey, there”
+       “How's it going?”
+       “What's up?” 
+       “What's new?”  
+       “What's going on?”
+       “How's everything?”
+       “How are things?” 
+       “How's life?”
+       “How's your day going?”
+       “Long time no see” 
+
+	Starter
+		“What can I get you?”
+		“Would you like to hear about our specials?”
+		“What are you in the mood for today?”
+		“How can I help?”
+		
+
+	Request for Info
+		“Would you like that 
+	Clarify
+	Wrap Up
+
+Answers
+	Greetings
+		“Fine”
+		“Good to see you”
+       “Nice to see you”
+
+		
+	Starter
+	Request for Info
+	Clarify
+	Wrap Up
+
